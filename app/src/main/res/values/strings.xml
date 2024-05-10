@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="next_lab">Next Lab</string>
+    <string name="i_am_so_hungry">I am so Hungry</string>
+    <string name="eat_cookies">EAT COOKIES</string>
+    <string name="cookies">Cookies</string>
+    <string name="i_am_so_full">I am so Full</string>
+    <string name="done">Done</string>
+    <string name="login_system">Login System</string>
+</resources>
